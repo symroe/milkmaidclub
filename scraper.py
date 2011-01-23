@@ -62,7 +62,7 @@ Non-Members: %s
         event.add('dtstart', date)
         event.add('dtend', date + timedelta(hours=3))
         cal.add_component(event)
-x = open('cal.ics', 'w')
+x = open('milkmadeclub.ics', 'w')
 x.write(cal.as_string())
 
     
