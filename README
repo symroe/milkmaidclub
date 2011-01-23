@@ -1,0 +1,3 @@
+Very basic/hacks scraper that turns the events from my local folk and open mic music club in to an icalendar.
+
+Requires icalendar and BeautifulSoup (both can be installed with pip)
